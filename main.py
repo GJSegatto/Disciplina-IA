@@ -1,7 +1,6 @@
 ## Feito por Gabriel Juliani Segatto e Nícolas Sanson Giaboeski
 
 import copy
-import random
 
 class Node:
     def __init__(self, data=[], f=0, g=0):
